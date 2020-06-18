@@ -1,0 +1,21 @@
+img.first{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 20px;
+}
+img.second{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 200px;
+}
+img.third{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 380px;
+}
