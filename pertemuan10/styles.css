@@ -1,0 +1,46 @@
+/*p{
+    color: blue;
+}
+p.first{
+    color: red;
+}
+p.second.feedback{
+    color: green;
+    border: 5px solid yellow 
+}*/
+#lop-container{
+    background-color: lightgray;
+}
+#bottom-container{
+    background-color: lightgreen;
+}
+
+div .first{
+    color: red;
+}
+a[href] {
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: yellow;
+}
+a[href*="google"]{
+    background-color: green;
+}
+a[href$=".ac.id"]{
+    background-color: purple;
+}
+
+h1:hover{
+    color: white;
+    background-color: black;
+}
+
+p::selection{
+    background-color: red;
+    color: yellow;
+}
+
+a::before{
+    content: "Link ..";
+}
