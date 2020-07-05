@@ -1,0 +1,20 @@
+div.Box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}
+div.Box2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+div.Box3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+}
